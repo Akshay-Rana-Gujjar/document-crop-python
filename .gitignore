@@ -1,0 +1,8 @@
+# Images and files
+*.jpg
+*.png
+*.pdf
+*.jpeg
+*.zip
+# directories
+*/
